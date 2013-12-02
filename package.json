@@ -1,0 +1,14 @@
+{
+  "name": "seq-id",
+  "version": "0.0.0",
+  "description": "Get (and set) a sequential (and unique) id for a given object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": {
+    "name" : "Myles Byrne",
+    "email" : "myles@myles.id.au"
+  },
+  "license": "MIT"
+}
