@@ -10,5 +10,9 @@
     "name" : "Myles Byrne",
     "email" : "myles@myles.id.au"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quackingduck/seq-id.git"
+  },
   "license": "MIT"
 }
